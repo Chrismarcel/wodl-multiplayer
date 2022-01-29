@@ -1,0 +1,21 @@
+{
+  "name": "wodl-multiplayer",
+  "version": "1.0.0",
+  "description": "A multiplayer version of the popular Wordle game",
+  "repository": "git@github.com:Chrismarcel/wodl-multiplayer.git",
+  "author": "Chrismarcel <cmarcelj@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/react": "^17.0.38",
+    "@types/react-router-dom": "^5.3.3",
+    "@typescript-eslint/eslint-plugin": "^5.10.1",
+    "@typescript-eslint/parser": "^5.10.1",
+    "husky": "^7.0.4",
+    "parcel": "^2.2.1",
+    "prettier": "^2.5.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.5.5"
+  }
+}
